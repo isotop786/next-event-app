@@ -6,9 +6,10 @@ const Header = () => {
   return (
     <header className={styles.header}>
         <div className={styles.logo}>
-            <Link href="/">
-                DJ Events
+          <Link href="/">
+               DJ Events
             </Link>
+           
         </div>
 
         <nav>
