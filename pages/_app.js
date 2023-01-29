@@ -1,5 +1,5 @@
-import '../styles/globals.css'
-import PageLayout from "../components/Layout"
+import '@/styles/globals.css'
+import PageLayout from "@/components/Layout"
 
 
 function MyApp({ Component, pageProps }) {
